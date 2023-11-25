@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Ngendakuriyo Billy: Welcome to my blog
 ---
 
